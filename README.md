@@ -42,6 +42,10 @@ If you have any questions or suggestions regarding Health Daily, feel free to co
 
 [Pratik](https://github.com/pratikwillcode)
 
+## Website URL
+
+[Health Daily](https://pratikawari.pythonanywhere.com/)
+
 ```
 
 Feel free to adjust and customize this README file according to your preferences and the specifics of your project.
